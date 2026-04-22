@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+ Hi, I'm Shitalendra 👋<br><br> BTech CSE Student (2nd sem)<br> Passionate about Programming & Freelancing<br> Currently learning Python and improving problem-solving skills <br><br>🚀 Skills<br>- Python (Basics: file handling, loops, functions)<br>- C (Basics: loops, functions, arrays, pointers)<br>- Problem Solving<br>- Git & GitHub (Learning)<br><br>📌 Projects<br>- 🤖 Discord Bot (AI-based)  <br>  → Built a bot with basic automation and AI features <br>- 📊 Student Record System  <br>  → Python-based system to manage student data  <br> 🌐 Personal Website (In Progress)  <br>  → Learning and building my first site <br><br>📫 Contact<br>- Email: your-email@example.com
 
-<!--
-**Shitalendra-Immortal/Shitalendra-Immortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shitalendra-kumar-yadav-018442378/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shitalendra-Immortal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shitalendra-Immortal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shitalendra-Immortal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Shitalendra-Immortal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
